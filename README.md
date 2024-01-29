@@ -1,4 +1,7 @@
-The project is a site where we offer more than one service to help people with color blindness and eye diseases such as cataracts, in addition to some doctors' diagnoses.    
+## Note I am only responsible for the section of Back-end.  
+### I used PHP language with Laravel framework. Laravel gives me many tools such as Controllers, Migration, Model, Mail class and built-in functions.
+
+This project is a site where we offer more than one service to help people with color blindness and eye diseases such as cataracts, in addition to some doctors' diagnoses.    
 One of the most important services provided by the project
 1- Diagnosis of eye diseases: through which the patient uploads an image of the fundus of the right or left eye to see if he has cataracts or not.    
 2- Recognizing colors using a video camera: the patient can, when he needs to know any color, open the camera, through which he can know the color and determine its degrees    
